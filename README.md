@@ -4,4 +4,5 @@
 - Day3:https://transcripts.gotomeeting.com/#/s/74b45e3105357aac253851887169db0ee1a17b84245980585e60d416cc8eaa43
 - Day4-1:https://transcripts.gotomeeting.com/#/s/00187ff17f08353e341defd49f95abf36ce3d0e0f333e476f2f27bea5ec69789
 - Day4-2:https://transcripts.gotomeeting.com/#/s/06020de535d23995483b7cc93ea10ef1fcb507e0bd1036ad6b55b1ceeb02c643
-- Day5:https://transcripts.gotomeeting.com/#/s/d067d172c9b5debc026c2d56ced67941d026dfbb909b7f961df493e54726a123
+- Day5:https://transcripts.gotomeeting.com/#/s/d067d172c9b5debc026c2d56ced67941d026dDay6:fbb909b7f961df493e54726a123
+- Day6:https://transcripts.gotomeeting.com/#/s/21e845a874cbd585f0282cdd981857c63c45a34f3e699a05aa5ecdbcacc5ab87
